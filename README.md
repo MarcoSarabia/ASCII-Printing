@@ -1,4 +1,4 @@
-Lab Project 0: ASCII Printing
+Lab Project: ASCII Printing
 ===================================
 # Description
 This project is a demonstration of ASCII art printing, implemented as part of a Computer Science course. The program, called `asciidraw`, allows users to print ASCII representations of various shapes and characters.
